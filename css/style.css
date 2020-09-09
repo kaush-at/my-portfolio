@@ -203,7 +203,7 @@ button:hover {
 
 /* section skills */
 #skills {
-  background-image: linear-gradient(to right, #000000dc, #000000de),
+  background-image: linear-gradient(to bottom, #000000dc, #000000bb),
     url(../img/white-brick.jpg);
 }
 
